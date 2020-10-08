@@ -8,7 +8,7 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("Ngsoft.Wol")]
 [assembly: AssemblyDescription("Contains WolBuilder class for using Wake-on-LAN feature")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("Aleksandr Nagorniy")]
 [assembly: AssemblyProduct("Ngsoft.Wol")]
 [assembly: AssemblyCopyright("Copyright © Aleksandr Nagorniy")]
 [assembly: AssemblyTrademark("")]

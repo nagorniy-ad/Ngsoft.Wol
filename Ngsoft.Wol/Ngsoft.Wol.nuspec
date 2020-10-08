@@ -4,14 +4,17 @@
     <id>$id$</id>
     <version>$version$</version>
     <title>$title$</title>
-    <authors>$author$</authors>
+    <authors>Aleksandr Nagorniy</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <license type="expression">MIT</license>
-    <projectUrl>http://project_url_here_or_delete_this_line/</projectUrl>
-    <iconUrl>http://icon_url_here_or_delete_this_line/</iconUrl>
-    <description>$description$</description>
-    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <repository type="git" url="https://github.com/nagorniy-ad/Ngsoft.Wol.git" />
+    <icon>logo.png</icon>    
+    <description>Contains WolBuilder class for using Wake-on-LAN feature</description>
+    <releaseNotes>First public release.</releaseNotes>
     <copyright>$copyright$</copyright>
-    <tags>Tag1 Tag2</tags>
+    <tags>wake-on-lan</tags>    
   </metadata>
+  <files>
+    <file src="logo.png" />
+    </files>
 </package>
